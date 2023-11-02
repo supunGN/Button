@@ -3,15 +3,16 @@
   font-size: 24px;
   text-align: center;
   cursor: pointer;
-  outline: none;
+  border: 3px solid #666;
   color: #333;
   background-color: #fff;
-  border: none;
   border-radius: 15px;
   box-shadow: 0 5px #666;
 }
 
-.btn:hover {background-color: #f2f2f2}
+.btn:hover {
+  background-color: #f2f2f2;
+}
 
 .btn:active {
   background-color: #f2f2f2;
