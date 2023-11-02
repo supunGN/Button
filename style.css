@@ -19,6 +19,7 @@ body {
   background-color: #fff;
   border-radius: 15px;
   box-shadow: 0 5px #666;
+  transition: 100ms;
 }
 
 .btn-1:hover {
